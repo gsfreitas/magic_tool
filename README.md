@@ -4,5 +4,5 @@
   <img src="banner.png" >
 </p>
 
-# Magic Tool
+# Magic Tool Mobile
 <sub>*Estatítica das Certificações* do projeto Magic Tool Mobile</sub>
