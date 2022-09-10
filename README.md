@@ -5,4 +5,4 @@
 </p>
 
 # Magic Tool
-<sub>*Esteira de homologação* dos projetos do Centro de Desenvolvimento de Dispositivos Brasil | Vivo - Telefônica Brasil</sub>
+<sub>*Estatítica das Certificações* do projeto Magic Tool Mobile</sub>
