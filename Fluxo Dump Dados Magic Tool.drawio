@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T19:42:44.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pSMdRuZeJrOR-97oZxfH" version="20.5.0" type="github"><diagram id="I4856DhwfRpsXld7B6E2" name="Página-1">7Vlbc5s4FP41ntl9cMcCDPZj7Fy6M/FuZt2Zpk8dGWRQC4gI4cv++j0CcTNyknZMvPH2JZE+3b9zzucjMTDn0e6O4yRYMI+EA2Pk7Qbm9cAwnOkY/kpgXwCWYxaAz6lXQKgGlvQfosCRQjPqkbTVUTAWCpq0QZfFMXFFC8Ocs22725qF7VUT7JMOsHRx2EU/U08EBToxnBr/SKgflCsje1q0RLjsrE6SBthj2wZk3gzMOWdMFKVoNyeh5K7kpRh3e6S12hgnsXjNAPLFihb3Xxf3qz8/pn/fPd7NjKchUtbY4DBTJ1a7FfuSAs6y2CNyltHAnG0DKsgywa5s3YLNAQtEFEINQdHDaZD3lRU1N+GC7I7uGlVcgA8RFhHB99BFDTAtRZ/yH2Os6tvaGpajsKBpiRLEygP8au6aJCgonn6As+nLlBEPnEhVGRcB81mMw5sanbVJrfvcM5Yo9r4RIfYqInAmWJvoYk250PPMwr5Yxl3ynBOouMLcJ+KZfhO9pTgJsaCb9j5Ozjo6saOewDeR0fZNp+uaVZema/bmmVaHo6vPyw5NcGDR5iIVnH0ncxYyDkjMYumhaxqGBxAOqR9D1QWCCOAzSR8FsbxSDRH1vNy9deS3zXMK/sdt/pFGG2wN/0Zf/I9f9lH4FUhk0cMCp4LxY2Sd2FPtcYupSZcoU0OU2RdRdoeoiMU+81byVJx5F+yzB79nCHVNMXlLU0zeWQKgEVlDJ7KoN8ZKizUoWxK+oR64HaCR3BwcbyB3dSszwcHcHFyhp4zGON947Mm09GJd/NBiGlXWWqw3WUaTDtlvkKCRHRWPargsf5HlD2NVu941mq73ZSWG8z42K41RsloPy2v7ltVOkwy+NhtElt4L3igdnP6yaQ82dc5q026OP5THczlNhHxDyKIkv/8LDHPZoZTLFWiu7cuS7OpK4VuD9OWS6+R/TVYp8Tccw0GgMB3J6SicQDtNtSJIMu/M5Ulpz9KskHVO2SVr+eTldAXprt9WX2JeOf1ZAh+9s8C3Xhn4jRepcwR+9+I6zGOM8PSrwKtQRtxvZOeS8Hd9xFaRnQdnI7yPS8LR+UrEo5uWn9lPGVPtdak1Ik1wrB2ywu53P3fCoVvE+5XkJKaCgpTpphx29O5ww8B0sV57DwDnGy/RkytTSNbiP6dLuhtt9Ybc1CW7N12y3p0uofPpkvNaXTLPqkuOVpd+RmzcdHNEug5Uruj4/4ja6qZ4vqjt3uUfIAxzvV1gn7rw/xNjufw+zP64WMvYh59ZNHqKdE+E/VnG6FhmQV3OUraWmflfawgzGTBm+bR5iem3PT0wi6kxy5u+pRjdD4aNx6/bTw8yUlY4laaZ4wgSlAAY7sbNWd8UK0+uPkprdGikoXX847RCtf7Gm7c1PpSbN/8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-21T19:43:33.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0UHxwd5-dOsQFw41sPHf" version="20.5.0" type="github">
+  <diagram id="I4856DhwfRpsXld7B6E2" name="Página-1">
+    <mxGraphModel dx="795" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="250" width="470" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eY4mML_MLbNHsRGXGB2q-1" target="eY4mML_MLbNHsRGXGB2q-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-4" value="AWS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-5" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="165" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-6" value="mongodb prod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="70" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-10" value="Servidor vm ware / máquina windows" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="50" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eY4mML_MLbNHsRGXGB2q-11" target="eY4mML_MLbNHsRGXGB2q-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eY4mML_MLbNHsRGXGB2q-11" target="eY4mML_MLbNHsRGXGB2q-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-11" value="- script dump total&lt;br&gt;- certificação / janela 90 dias&lt;br&gt;- script extração de usuários" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="110" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eY4mML_MLbNHsRGXGB2q-14" target="eY4mML_MLbNHsRGXGB2q-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-14" value="- users_table (excel)&lt;br&gt;- janela de 90 dias certificação (excel)&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- dump total (excel)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="280" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eY4mML_MLbNHsRGXGB2q-17" target="eY4mML_MLbNHsRGXGB2q-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-17" value="- janela de 90 dias certificação (csv)&lt;br&gt;- users_table (csv)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="340" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-20" value="Portal Magic Tool (PBI)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-22" value="Microsoft Office 365" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eY4mML_MLbNHsRGXGB2q-23" value="Servidor FTP (base Campanholo)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="470" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fOd-0Fnr1H5H58HRXWjs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eY4mML_MLbNHsRGXGB2q-11" target="eY4mML_MLbNHsRGXGB2q-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
