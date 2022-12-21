@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T11:50:01.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="1eEtiiLbx0CVGZT_Gp6K" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T11:51:07.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="4LzU6gKwZqfHItTe9iFh" type="github">
   <diagram id="S2vZxG-TLGOX_9Wg_nul" name="Página-1">
     <mxGraphModel dx="794" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="QoYrItKDnbaWJseRhhGU-18" value="Faz alguma coisa que eu não sei ainda..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QoYrItKDnbaWJseRhhGU-20" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="80" height="30" as="geometry" />
+        <mxCell id="QoYrItKDnbaWJseRhhGU-20" value="Problemas&lt;br&gt;- conexão direta com a base campanholo&lt;br&gt;- o usuário novo não fez nenhuma certificação" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QoYrItKDnbaWJseRhhGU-21" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="60" height="30" as="geometry" />
